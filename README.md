@@ -10,5 +10,6 @@
 | [1161-project-employees-i](https://github.com/rawan-sleem/SQL-50-LeetCode/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/rawan-sleem/SQL-50-LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/rawan-sleem/SQL-50-LeetCode/tree/master/1415-students-and-examinations) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/rawan-sleem/SQL-50-LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/rawan-sleem/SQL-50-LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
